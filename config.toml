@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Soccer Club Site"
+title = "A Soccer Club Site by 국진"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
