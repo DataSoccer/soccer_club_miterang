@@ -3,4 +3,28 @@ title: "About"
 date: "2016-05-05T21:48:51-07:00"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+안녕하세요 저는 김국진 입니다.
+
+• 현) 2016.01 매드업 부사장 금융사업부 총괄
+
+-	신용카드 포인트 통합 잠금화면 플랫폼 개발
+-	다이어트 및 금융 챗봇 개발
+-	금융권 모바일 앱 마케팅 제휴
+
+• 전) 2015.06 옐로금융그룹 이사 핀테크 제휴 총괄
+
+  -	한국핀테크산업협회 설립 참여
+  -	인터넷 은행 제안 참여
+• 전) 2008.06 다음-카카오 마이원 모바일 월렛 총괄
+
+  -	모바일 월렛 서비스 기획
+  -	신용카드 번호를 모바일 앱에 등록하여 멤버십을 매칭하는 비즈니스 모델 특허출원 및 개발
+  -	CJ, GS, SPC, S-Oil, Oil-Bank 등 2만개 가맹점 제휴
+  -	국민, 신한, 농협, 현대 멤버십 제휴신용카드 700만장 발급
+  -	국민카드 로열티 시스템 2만개 가맹점 제휴운영
+  -	다음 Store View 대형 가맹점 제휴
+  
+• 전) 2005.06 코나아이 팀장 신규사업 기획 및 제휴 
+  -	 USB 신용/교통카드 플랫폼
+  
+• 전) 내용생략
