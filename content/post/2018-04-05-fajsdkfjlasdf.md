@@ -19,4 +19,4 @@ tags:
 
 책임이자 의무이다.
 
-![design trend pdf](../img/design_trend.jpg)
+![design trend pdf](../img/design_trend.png)
