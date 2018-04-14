@@ -13,10 +13,15 @@ tags:
 
 지금 까지는 아이디어나 비즈니스 모델을 먼저 만들었는데
 
+
+
+
+
 체계에 휘둘리지 않고도 유연하게 기획을 하는것이 좋다고 생각하는데
 
 틀을 만들고 적용하고 다시 피드백을 받는것은 린스타트업이 가져야될
 
 책임이자 의무이다.
 
-![design trend pdf](../img/design_trend.png)
+![design trend jpg
+](../img/design_trend.png)
